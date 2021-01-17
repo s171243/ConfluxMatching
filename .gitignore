@@ -1,0 +1,7 @@
+data/matching_result/*
+data/matching_rating/*
+__pycache__/*
+**/__pycache__/*
+*.py[cod]
+!data/initial_data.csv
+.idea/*

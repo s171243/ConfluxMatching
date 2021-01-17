@@ -1,0 +1,189 @@
+;mentor_name;mentee_name;mentee_id;mentor_id;score
+0;Dennis Dyhr;Mikkel Sohrt;5792;6517;376
+1;Niels-Kristian Gleerup;Johannes Thiem;5388;6777;426
+2;Reza;Bettina Lengger;2331;6148;376
+3;Neil MacDougall;Dylan Japhta;6246;6486;446
+4;Michael Caspersen;Aditya Surendran;4511;6384;446
+5;Marcos Fuentes;Rishav Bose;2401;6163;426
+6;Kostas Vavatsoulas;Maria Maniati;6395;6121;426
+7;Jon Nielsen;Helene Wellm;5177;6346;426
+8;Jevgenijs Martjanovs;Ida Mariegaard;5808;6373;446
+9;Ernst Jan de Place Hansen;Elisabet Høpfner Flejsborg;6023;6250;406
+10;Agnieszka Bochynska;Daniel Goday Sagarra;5708;5765;446
+11;Karl Erik Traberg;Christian Westerdahl;6230;6062;406
+12;Emil Ferent;Filip Sawicki;5222;5895;396
+13;Stig Lohmann-Devantier;Ali El Chaabi;5385;5894;426
+14;Jason Pountney;Oliver Lassen;6639;5435;486
+15;Torsten Kolind;Maika Jensen;5889;5047;546
+16;Simon Wessel;Maciej Szczepaniak;5853;5046;596
+17;Nanna Lillelund;Sofie Nihøj-Damgaard;5478;4968;526
+18;Frederik Brandt;Nche Brono nji;6490;4886;426
+19;Matej Simurda;Carl-Emil Uldall Schultz;6462;4885;466
+20;Mariona Bertran;Giuseppe Giammarco;6476;4884;566
+21;Lise Lotte Christensen;Helene Reimers Andersen;5127;4745;556
+22;Kenneth C. Kleissl;Monty Mahdi;5969;4744;486
+23;Kim Overgaard;Malte Lethin;6389;4475;506
+24;Fan Yang;Georgios Lioutas;6380;4559;486
+25;Tanja Thorskov Bladt;Ester García-Estañ Marín;5293;4558;646
+26;Ruchika Singh;Alejandro Calero Agut;5049;4557;486
+27;Rima Assaf;Laura Dam Christophersen;6257;4556;636
+28;Rasmus Sørensen;Nick Nielsen;6238;4555;486
+29;Peter Grønborg;Marcus Lenler Garsdal;4992;4554;506
+30;Peter Bornerup;Emil Baungaard;5449;4553;536
+31;Panagiotis Vavatsikos;Stefanos Ntomalis;4916;4552;506
+32;Nanna Hagstrøm;Line Eliasson;6623;4551;546
+33;Mohammad Mohadjer;Alan Jafi;5322;4550;486
+34;Mikkel Mohr Poulsen;Phillip Dyrberg;5445;4549;486
+35;Mihaela Hozmache;Marcos Ivorra;6253;4548;486
+36;Michael Lee-Pedersen;Juliane Sørensen;5519;4547;516
+37;Michael Bossen Møller;Louis Beuzit;5737;4546;486
+38;Mie Bach-Pedersen;Simon Saugmandsgaard Kruse;5844;4545;596
+39;Michael Thulstrup;Louis Mbu Kokee;6103;4544;436
+40;Maria Peris;Lukas Tanzer;6601;4543;486
+41;Lars Graversen;Balázs Bán;2160;4542;426
+42;Louise Kjer Nemming;Antonia Griesz;5035;4541;486
+43;Lindita Kellezi;Alejandro Manzano Azores;4843;4539;536
+44;Lasse Hylleberg Mølleskov;Jonas Bolvig Hansen;5658;4538;466
+45;Leticia Torres;Itzel Nayeli Balderas Sánchez;5450;4537;506
+46;Kim Moustgaard;Yasmin Jundiyeh;2499;4535;426
+47;Jesper Culmsee;Cyril Estok;5039;4534;556
+48;Jan Krogh;Asterios Nastas;6210;4533;596
+49;Jarl Lundin Overbeck;Serdar Tunçkol;6372;4532;426
+50;Rose Babirye Frederiksen;Santiago Ribelles García;5858;4531;446
+51;Longzhen Hu;Sebastian Sbirna;5789;4530;556
+52;Helle Monrad-Gylling;Johanna Schichler;4700;4529;466
+53;Georgi Yankov;Anna Porofijeva;6543;4528;376
+54;Frederik Bundesen;Panagiotis Anagnostakis;4896;4527;486
+55;Erik Schou;John Fritz;5842;4526;536
+56;Erik Bek-Pedersen;Vivienne Mol;4725;4525;486
+57;David Bould;Amogh Gokhale;5899;4524;596
+58;Ledian Selimaj;Nikolaj Søndergaard Povlsen;5854;4523;596
+59;Christian Caspersen;Charlotte E. M Grimstrup;6417;4522;446
+60;Christian Breinbjerg;Jiatian Zhang;6377;4521;596
+61;Bertrand Bourgeat;Benjamin Starostka Jakobsen;5215;4520;586
+62;Anders Systad;Esben Norup;6149;4519;486
+63;Alberto Alvarez;Kendra Rodríguez López;5352;4518;486
+64;Yan Li;Amelia Kovalenko;5198;3700;376
+65;Zheng Zhang;Dimos Kadoglou;6000;3703;396
+66;Walter Tamukong;Roshan Bohara;5546;3545;426
+67;Viggo Maegaard;Jakob Højeng-Swensson;6410;3359;406
+68;Valeriu Ohan;Fotios Kotsalidis;6009;3432;446
+69;Tom Persson;Frederikke Zeleste Lehmann;5473;3719;536
+70;Torben Weng;Bastien TRAN VAN BA;5498;3759;426
+71;Thomas Vejlemand;Jonas Hoffmann;5448;3867;516
+72;Tilman Weckesser;Jacob Krum Thorning;4835;3635;646
+73;Tolga Omer Atalay;Marius Cristian Mic;6625;3540;396
+74;Thomas Hvass Eriksson;Ida Due;5168;4180;536
+75;Thomas Hessellund;Cecilie Vang Christensen;6137;3767;486
+76;Thomas Raahauge Lund Nielsen;Felix Wursthorn;6217;3834;426
+77;Thomas Alkeskjold;Sofie Petersen;5932;3711;526
+78;Søren Sørensen;Paul Christian Dahl Sinding;4995;3705;426
+79;Søren Vedel;Gustav Grønborg Franck;5866;3552;466
+80;Søren Stranne;Antonio Taveira;6079;3506;486
+81;Søren Steen;Oscar Briz López;6178;3827;536
+82;Søren Berg Lorenzen;Dimitrios Eleftheriou;6595;3726;546
+83;Sikker Rosendal;Ahsan Chonche;6539;4017;436
+84;Sébastien Delpont;Yao Ke;5029;3698;596
+85;Sanne Burup;Tianyu Lei;6400;3539;516
+86;Roger V. Krishnaswamy;Sushruth Bangre;6323;3810;536
+87;Riccardo Sprocati;Kiara Allen;2307;3636;506
+88;Rebecca Sara Bjerre;Asser Munch;5974;3673;516
+89;Peter Thomas Olesen;Riccardo Pollacchini;5444;3676;536
+90;Peter Jørgensen;Magnus Pedersen;5443;3806;576
+91;Peter Duroska;Marian Petroc;6094;3871;536
+92;Peter Bagge;Josephine Arke Enghave;4747;3684;466
+93;Parry Bedi;Peter Steen Marr Spore;5457;3533;506
+94;Ollie Kryva;Chuqian Zhou;5532;3632;456
+95;Niels Karim Høst-Madsen;August Nielsen;5126;3798;466
+96;Ole Magnussen;Antons Osadcijs;6227;3839;426
+97;Nicolas Bec;Felix Wütherich;5653;3626;426
+98;Nadia Lyngaa Madsen;Shubham Ingole;5249;3628;596
+99;Nicolai Ascanius;Julian Roin Skovhus;1848;3818;426
+100;Mueed Ahmad;Filip Wolf Kristiansen;5323;3729;406
+101;Mikkel Øberg;Jakob Mayr;4981;3860;446
+102;Michael Pontoppidan;María Padilla;5878;3592;426
+103;Mikkel Buch Skadhauge;Katrine B. P. Thoft;6477;3750;446
+104;Mette Fredsted;Christina;5492;3630;586
+105;Michael Jørgensen;Farzad Khamisi;6159;3427;486
+106;Michael Dehn Christensen;Rasmus Lennartz-Johansen;2127;3769;406
+107;Mette Engelbrechtsen;Astrid Skovhus;5890;3663;616
+108;Matteo Vitale;Haoyuan Sun;5935;3456;576
+109;Martin Thisted Jakobsen;Frederik Zilstorff;6202;3526;536
+110;Martin Mathiasen;Peter Tropko;6632;3727;486
+111;Martin Ebro;Evi Peshkepia;5545;4198;486
+112;Marina Ejlertsen;Maja Karlsson;4974;3697;526
+113;Martin Lundberg-Jensen;Joaquín Royo Miquel;5778;3576;446
+114;Maria Deslauriers;David Bregnsbo Fastholm;5123;3647;426
+115;Marie Nobis Israelsen;Emil Engstrøm Bruun;6563;3445;486
+116;Maria Moeslund Hansen;Viviane Britz;5223;4021;486
+117;Maciej Kaniecki;Jonathan Gundorph Jansen;6087;3868;486
+118;Mads Møller;Alvaro;5298;3702;486
+119;Mads Esholdt Wiemann;Leonardo Dentone;5354;3771;506
+120;Lynge Carlshollt Christiansen;Martin Lyregaard;6327;4199;426
+121;Lara Jewinat;Eva Munoz;6345;3846;616
+122;Lena Printz;Gunnhildur Gretarsdottir;5859;3415;536
+123;Lars Rasmussen;Naiara Santillana;5241;3712;586
+124;Kristoffer Kofoed;Kathrine Jæger Moos;5260;3864;426
+125;Kwasi Amoah;Alicia Belda Leandro;5311;3718;426
+126;Kristina Linde Hansen;Niklas Andersen;5755;3731;596
+127;Kristian Ohrt Dam-Jensen;Frederik Pedersen;2090;3725;406
+128;Kristin Kaltenhauser;Kristian Sten Holst;6519;3831;446
+129;Kim Fynbo Nielsen;Qing Zheng;2039;3701;426
+130;Kim Müller Christensen;Christian Venbjerg;5711;3469;576
+131;Kim Petersen;Line Christiansen;5353;3728;416
+132;Jørgen Bundgaard Hansen;Nikolaj Mandsberg;5685;3494;486
+133;Kaleem Hayat;Christian Hjelmslund;1821;3807;446
+134;José Pedro Blasques;Roberto Cadonici;4852;3862;556
+135;Jens Peter Traff;Simone Egede von Mehren;5447;3865;406
+136;Jim Weng;Josefine Maribo Schuler;5387;3866;426
+137;Jesper Taxbøl;Sorin;6097;3738;426
+138;Jens Jakob Kramhøft;Kasper Dahl Andersen;6554;3842;486
+139;Jens Carlsen;Hafeez Ahmadi;5111;3577;486
+140;Jan Vælds;Mugdha;5229;3603;536
+141;Jan Kristoffersen;Kirsten Estrup Christensen;5474;3681;596
+142;Jeanne Mia Lønstrup;Agam Bhushan;6022;3706;606
+143;Jakob Fyrkil Ølgaard;Helena Charlotte Hansen;4640;3585;446
+144;Jacob Mac Rygaard;Fernando Tezza;2322;3768;446
+145;Henrik Surrow Larsen;Victor Bonde Rasmussen;6455;3861;486
+146;Ismail Faizi;Sigurd Nielsen;5497;3660;446
+147;Henrik Jung Laursen;Gustav Duckert;4750;3416;426
+148;Henning Kastbjerg;Arnau Guiu Torne;5117;3696;596
+149;Henrik Bjørnstrup;Breno Strüssmann;5931;3747;446
+150;Hanne Heide;Mie Bak Baden;6031;3588;586
+151;Haiyan Hansen;Carlos Parra Marcelo;6019;3715;396
+152;Georgios Siskos;Sophie Yin;6127;3770;596
+153;Gandalf Saxe;Kira Charlotte Popp Jensen;5324;3813;536
+154;Frans Ravn;Alexander Borch Kristensen;5904;3887;486
+155;Felix Langkjær;Carlos Ramos;5271;3699;536
+156;Frederik Agergaard;Arvydas Latvenas;5089;3735;536
+157;Esben Bager;Baris Yalcin;4697;3360;566
+158;Diana Iacoboae;JAVIER SANCHEZ RIOS;6466;3875;476
+159;Elodie Courtois;Thorbjorg Katrin Davidsdottir;5762;3414;466
+160;Daniel Eggert;Marjahan Begum;6338;3634;516
+161;Claudio Erikstrøm;Zoltán Guller;6443;3730;536
+162;Christoph Albert Wiedeburg;Fabio Tondini;5671;3633;426
+163;Claes Jæger;Varun C Biradar;6573;3641;396
+164;Christian Uttenthal;Jokin Brito;6309;3805;536
+165;Christian Kubstrup;Tim Martin Jensen;5678;3629;536
+166;Christian Guldbæk;Lukas Nyboe Bek;6324;3666;536
+167;Christian Nilaus;Maresa Weisshaar;6014;3755;506
+168;Christian Bjerre Nielsen;Karoline Rosenstand;5867;3501;486
+169;Casper Agesen;Signe Weis;1601;3642;426
+170;Charlotte Hummer Vad;Morten Christensen;5122;3704;546
+171;Carsten Lindestrøm;Fernando Povedano;5756;3691;426
+172;Bruno Kotovich;Spandan Das;6053;3538;536
+173;Bo Klausen;Karol Krzak;5898;3627;396
+174;Bettina Hartmann;Pierre Segonne;5255;3631;396
+175;Bo Andersen;Matthias Adamsen;4710;3499;446
+176;Axel Ahrens;Arvind Sendrayaperumal;6300;3863;496
+177;Anne Mette Nøhr;Konstantina Tzimou;6570;4153;546
+178;Anja Solhauge;Bettina Bacsó;5813;3756;416
+179;Ane Meyland;Helene Swartz;6526;3835;446
+180;Ana Gadea;Luis Larrosa;5055;3795;586
+181;Mikkel Mørk Hegnhøj;Gabriele Ravizza;6138;4020;446
+182;Aliki Pouliasi;Clara Francino;5310;3804;546
+183;Alexandre Millet;Martin Sturdy;5284;3720;536
+184;Alexandre Chabot-Leclerc;Arnau Hernandez;6273;3762;486
+185;Alberto Troya Diaz;Oliver Toftegaard Jensen;4976;3895;426
+186;Adam Heleniak;Ingeborg Bersås;5599;3403;496
+187;Mehmet Cagri Yurdal;Greta Gärdebäck;5793;2794;376
